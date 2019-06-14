@@ -1,5 +1,5 @@
 # single-cell-RNAseq-HSV1
-Analysis files accompanying eLife paper entitle "Single cell analysis of HSV-1 infection reveals anti-viral and developmental programs are activated in distinct sub-populations with opposite outcomes"
+Analysis files accompanying eLife paper entitled "Single cell analysis of HSV-1 infection reveals anti-viral and developmental programs are activated in distinct sub-populations with opposite outcomes" http://dx.doi.org/10.7554/eLife.46339
 
 This repository contains the Matlab code used to analyze and generate the images for the single-cell anlyses in the paper.
 Files contained are:
